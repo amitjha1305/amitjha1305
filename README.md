@@ -1,4 +1,4 @@
-- 👋 Hi, I’m amitjha1305
+- 👋 Hi, I’m Amit kumar jha
 - 👀 I’m interested to solving maths formula
 - 🌱 I’m currently andvace java
 - 💞️ I’m looking to collaborate on any backand company
