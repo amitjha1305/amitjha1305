@@ -48,7 +48,7 @@ A front-end project replicating Netflix's user interface.
 
 ## 📧 Let's Connect  
 
-- 📬 Email: amitkjha1234@gmail.com  
+- 📬 Email: amitjha119003@gmail.com  
 - 🔗 LinkedIn: [Amit Kumar Jha](https://linkedin.com/in/amit-kumar-jha)  
 - 🌐 Portfolio: [Your Portfolio Link](#)  
 
